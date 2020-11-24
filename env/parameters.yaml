@@ -1,0 +1,10 @@
+adminUser:
+  password: local:ips-cluster2/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: pallapatisandesh2020@gmail.com
+  token: local:ips-cluster2/pipelineUser:token
+  username: jx-ips-bot
+prow:
+  hmacToken: local:ips-cluster2/prow:hmacToken
